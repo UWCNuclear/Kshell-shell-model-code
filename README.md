@@ -1,4 +1,4 @@
-# Kshell-shell-model-code
+#  Shell-model-code: Kshell
 
 Check if you have the following softwares
 
