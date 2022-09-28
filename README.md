@@ -25,12 +25,12 @@ Check if you have the following softwares
  You will get the following:
  
  -----------------------------
-KSHELL user interface to generate job script.\\
+KSHELL user interface to generate job script.\
 -----------------------------
-MPI parallel?\\
-Y/N (default:\\
-No) :\\
-n\\
+MPI parallel?\
+Y/N (default:\
+No) :\
+n\
 y for MPI parallel
 ... generate shell script for a single node.
 model space and interaction file name (.snt)
