@@ -25,7 +25,7 @@ Check if you have the following softwares
  You will get the following:
  
  -----------------------------
-KSHELL user interface to generate job script.\
+KSHELL user interface to generate job script.
 -----------------------------
 MPI parallel?\
 Y/N (default:\
@@ -38,8 +38,8 @@ model space and interaction file name (.snt)\
 w or w.snt, TAB key to complete) :\
 w.snt\
 
-After choosing the interaction of choice. Press enter\
-
+After choosing the interaction of choice. Press enter
+\
 *************** specify a nuclide ********************\
 number of valence protons and neutrons\
 (ex.\
