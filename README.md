@@ -72,34 +72,34 @@ generating partition file ............ done.\
 \
 You will then see the input parameter. E.g\
 \
-eff_charge = 1.5, 0.5,
-fn_int = "w.snt"
-gl = 1.0, 0.0,
-gs = 3.91, -2.678,
-hw_type = 2
-max_lanc_vec = 200
-maxiter = 300
-mode_lv_hdd = 0
-n_block = 0
-n_restart_vec = 10
-
-You will be asked if you want to modify any parameters.
-
-modify parameter?
-(e.g. maxiter = 300 for parameter change
-<CR>
-for no more modification ) :
-
-The next step if to decide whether to compute the transition probabilities or not.
-
+eff_charge = 1.5, 0.5,\
+fn_int = "w.snt"\
+gl = 1.0, 0.0,\
+gs = 3.91, -2.678,\
+hw_type = 2\
+max_lanc_vec = 200\
+maxiter = 300\
+mode_lv_hdd = 0\
+n_block = 0\
+n_restart_vec = 10\
+\
+You will be asked if you want to modify any parameters.\
+\
+modify parameter?\
+(e.g. maxiter = 300 for parameter change\
+<CR>\
+for no more modification ) :\
+\
+The next step if to decide whether to compute the transition probabilities or not.\
+\
 compute transition probabilities (E2/M1/E1) for
-Mg24_w ? Y/N (default: No) :
-y
-“y” for computing transition probabilities. “n” if unnecessary.
-
-We are done generating the bash script for Kshell to run it using the terminal do the following:
-
-$./Mg24_w.sh
-
-The observables: binding energies,excited states energies and transition probabilities (E2/M1/E1) will be in summary_* file.
-The wavefunctions are found in density_*  file.
+Mg24_w ? Y/N (default: No) :\
+y\
+“y” for computing transition probabilities. “n” if unnecessary.\
+\
+We are done generating the bash script for Kshell to run it using the terminal do the following:\
+\
+$./Mg24_w.sh\
+\
+The observables: binding energies,excited states energies and transition probabilities (E2/M1/E1) will be in summary_* file.\
+The wavefunctions are found in density_*  file.\
