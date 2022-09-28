@@ -31,47 +31,47 @@ MPI parallel?\
 Y/N (default:\
 No) :\
 n\
-y for MPI parallel
-... generate shell script for a single node.
-model space and interaction file name (.snt)
-(e.g.
-w or w.snt, TAB key to complete) :
-w.snt
+y for MPI parallel\
+... generate shell script for a single node.\
+model space and interaction file name (.snt)\
+(e.g.\
+w or w.snt, TAB key to complete) :\
+w.snt\
 
-After choosing the interaction of choice. Press enter
+After choosing the interaction of choice. Press enter\
 
-*************** specify a nuclide ********************
-number of valence protons and neutrons
-(ex.
-2, 3 <CR>) <CR> to quit :
-4,4
-Numbers of active protons and neutrons
-name for script file (default: Mg24_w ):
-J, parity, number of lowest states
-(ex. 10
-for 10 +parity, 10 -parity states w/o J-proj. (default)
--5
-for lowest five -parity states,
-0+3, 2+1
-for lowest three 0+ states and one 2+ states,
-1.5-, 3.5+3 for lowest one 3/2- states and three 7/2+ states) :
-+10
-Compute 10 low-lying positive-parity states
-
-Press enter. 
-
-truncation for "+" parity state in Mg24_w_p.ptn
-truncation scheme ?
-(0): No truncation (default)
-(1): particle-hole truncation for orbit(s)
-(2): hw truncation
-(3): Both (1) and (2)
-0 for no truncation.
-: 0
-generating partition file ............ done.
-
-You will then see the input parameter. E.g
-
+*************** specify a nuclide ********************\
+number of valence protons and neutrons\
+(ex.\
+2, 3 <CR>) <CR> to quit :\
+4,4\
+Numbers of active protons and neutrons\
+name for script file (default: Mg24_w ):\
+J, parity, number of lowest states\
+(ex. 10\
+for 10 +parity, 10 -parity states w/o J-proj. (default)\
+-5\
+for lowest five -parity states,\
+0+3, 2+1\
+for lowest three 0+ states and one 2+ states,\
+1.5-, 3.5+3 for lowest one 3/2- states and three 7/2+ states) :\
++10\
+Compute 10 low-lying positive-parity states\
+\
+Press enter.\ 
+\
+truncation for "+" parity state in Mg24_w_p.ptn\
+truncation scheme ?\
+(0): No truncation (default)\
+(1): particle-hole truncation for orbit(s)\
+(2): hw truncation\
+(3): Both (1) and (2)\
+0 for no truncation.\
+: 0\
+generating partition file ............ done.\
+\
+You will then see the input parameter. E.g\
+\
 eff_charge = 1.5, 0.5,
 fn_int = "w.snt"
 gl = 1.0, 0.0,
