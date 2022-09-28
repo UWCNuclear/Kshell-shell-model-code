@@ -90,7 +90,7 @@ modify parameter?\
 <CR>\
 for no more modification ) :\
 \
-The next step if to decide whether to compute the transition probabilities or not.\
+The next step is to decide whether to compute the transition probabilities or not.\
 \
 compute transition probabilities (E2/M1/E1) for
 Mg24_w ? Y/N (default: No) :\
