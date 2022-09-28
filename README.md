@@ -36,7 +36,7 @@ y for MPI parallel\
 model space and interaction file name (.snt)\
 (e.g.\
 w or w.snt, TAB key to complete) :\
-w.snt\
+w.snt
 
 After choosing the interaction of choice. Press enter
 \
