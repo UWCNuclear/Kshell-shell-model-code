@@ -26,7 +26,8 @@ Check if you have the following softwares
  
  -----------------------------
 KSHELL user interface
-4to generate job script.
+
+to generate job script.
 -----------------------------
 MPI parallel?
 Y/N (default:
